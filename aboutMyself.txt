@@ -6,3 +6,6 @@ Section: A
 Branch: Computer science Engineering
 Year Of Admission: 2024
 College Name: GITW
+SSLC:Christ The King High School
+P.U.C: Shaheen PU College
+UG : 2nd year,BE
